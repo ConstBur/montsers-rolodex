@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/montsers-rolodex/static/css/main.fa44a433.chunk.css",
+    "main.js": "/montsers-rolodex/static/js/main.4baa35c1.chunk.js",
+    "main.js.map": "/montsers-rolodex/static/js/main.4baa35c1.chunk.js.map",
+    "runtime~main.js": "/montsers-rolodex/static/js/runtime~main.30f3caa1.js",
+    "runtime~main.js.map": "/montsers-rolodex/static/js/runtime~main.30f3caa1.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/montsers-rolodex/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/montsers-rolodex/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/montsers-rolodex/index.html",
+    "precache-manifest.83987ab4907836f467b9ec11012efa8a.js": "/montsers-rolodex/precache-manifest.83987ab4907836f467b9ec11012efa8a.js",
+    "service-worker.js": "/montsers-rolodex/service-worker.js",
+    "static/css/main.fa44a433.chunk.css.map": "/montsers-rolodex/static/css/main.fa44a433.chunk.css.map"
+  }
+}
